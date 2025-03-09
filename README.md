@@ -7,8 +7,7 @@
 
 <br>
 
-Hi, I'm [Abhishek Maira](https://www.abhishekmaira.com/), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and Fifa ⚽.
-I support Manchester United 👿 and Barcelona 😎.
+I'm 0x1Gp, a junior pentester and cybersecurity enthusiast 🛡️. Passionate about offensive security, I spend my time exploring vulnerabilities, developing custom audit tools, and hunting for security flaws
 
 <br>
 
@@ -16,7 +15,7 @@ I support Manchester United 👿 and Barcelona 😎.
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
-<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/1344654143268192408/1348430731696668693/47c9552e5cc72583c617c30cd378fbf0.gif?ex=67cf6f7b&is=67ce1dfb&hm=937db8ea68301d82026d1371b62b91044bef7d55f6186fd4dddac3fbe125fab6&" />
+<img align="right" alt="GIF" height="250" width="400" src="https://cdn.discordapp.com/attachments/1344654143268192408/1348430731696668693/47c9552e5cc72583c617c30cd378fbf0.gif?ex=67cf6f7b&is=67ce1dfb&hm=937db8ea68301d82026d1371b62b91044bef7d55f6186fd4dddac3fbe125fab6&" />
 
  - 📫 How to reach me: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
  - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
