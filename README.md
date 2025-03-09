@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <p align="left">
-<a href="https://twitter.com/0x1Gp" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/0x1Gp" target="_blank"><img height="30" src="https://cdn.discordapp.com/attachments/1344654143268192408/1348429917238464572/cc316f97197528e5e26e613a93ab16a4.jpg?ex=67cf6eb8&is=67ce1d38&hm=d1edfc452d9ef5c0a57322332c7afe192a6565f5e85d29e1e1e89076a92a343e&"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
