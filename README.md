@@ -2,7 +2,6 @@
 
 <p align="left">
 <a href="https://twitter.com/0x1Gp" target="_blank"><img height="30" src="https://cdn.discordapp.com/attachments/1344654143268192408/1348429917238464572/cc316f97197528e5e26e613a93ab16a4.jpg?ex=67cf6eb8&is=67ce1d38&hm=d1edfc452d9ef5c0a57322332c7afe192a6565f5e85d29e1e1e89076a92a343e&"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.discordapp.com/attachments/1344654143268192408/1348430731696668693/47c9552e5cc72583c617c30cd378fbf0.gif?ex=67cf6f7b&is=67ce1dfb&hm=937db8ea68301d82026d1371b62b91044bef7d55f6186fd4dddac3fbe125fab6&" width="100"/>
 
 
 <br>
@@ -13,6 +12,7 @@
 
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
+<img src="https://cdn.discordapp.com/attachments/1344654143268192408/1348430731696668693/47c9552e5cc72583c617c30cd378fbf0.gif?ex=67cf6f7b&is=67ce1dfb&hm=937db8ea68301d82026d1371b62b91044bef7d55f6186fd4dddac3fbe125fab6&" width="100"/>
 
 
  
