@@ -1,8 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <p align="left">
-<a href="https://twitter.com/0x1Gp" target="_blank"><img height="30" src="![image](https://github.com/user-attachments/assets/9aa665db-7271-4109-a702-dd72e885ab6e)
-"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/0x1Gp" target="_blank"><img height="30" src="![image](https://github.com/user-attachments/assets/9aa665db-7271-4109-a702-dd72e885ab6e)"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
