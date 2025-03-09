@@ -19,7 +19,7 @@ I support Manchester United 👿 and Barcelona 😎.
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/1344654143268192408/1348430731696668693/47c9552e5cc72583c617c30cd378fbf0.gif?ex=67cf6f7b&is=67ce1dfb&hm=937db8ea68301d82026d1371b62b91044bef7d55f6186fd4dddac3fbe125fab6&" />
 
  - 📫 How to reach me: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
  - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
