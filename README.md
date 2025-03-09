@@ -55,13 +55,6 @@ I'm 0x1Gp, a junior pentester and cybersecurity enthusiast 🛡️. Passionate a
   </p>
 </details>
 
-<a href="https://github.com/0x1Gp/Velvet" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0x1Gp&repo=Velvet&theme=dracula" />
-</a>
-
-<a href="https://github.com/0x1Gp/autre-projet" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0x1Gp&repo=autre-projet&theme=dracula" />
-</a>
 
 <div align="center">
   <h3>Show some ❤️ by starring some of my repositories!</h3>
