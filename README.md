@@ -26,7 +26,7 @@ I support Manchester United 👿 and Barcelona 😎.
  
  <br>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekMaira10" alt="AbhishekMaiara10" /> </p>
+ <p align="left"> <img src="https://cdn.discordapp.com/attachments/1344654143268192408/1348430731696668693/47c9552e5cc72583c617c30cd378fbf0.gif?ex=67cf6f7b&is=67ce1dfb&hm=937db8ea68301d82026d1371b62b91044bef7d55f6186fd4dddac3fbe125fab6&" alt="AbhishekMaiara10" /> </p>
  
  </br>
 
