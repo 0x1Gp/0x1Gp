@@ -48,27 +48,25 @@ I'm 0x1Gp, a junior pentester and cybersecurity enthusiast 🛡️. Passionate a
 
 <hr>
 <details>
-<summary>📈 My GitHub Stats</summary>
+  <summary>📈 My GitHub Stats</summary>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x1Gp&show_icons=true&theme=gotham" alt="0x1Gp's GitHub stats" />
-</p>
-
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=0x1Gp&show_icons=true&theme=gotham" alt="0x1Gp's GitHub stats" />
+  </p>
 </details>
-
-<br>
 
 <a href="https://github.com/0x1Gp/Velvet" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0x1Gp&repo=Velvet&theme=dracula" />
 </a>
+
 <a href="https://github.com/0x1Gp/autre-projet" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0x1Gp&repo=autre-projet&theme=dracula" />
 </a>
 
 <div align="center">
-
-### Show some ❤️ by starring some of my repositories!
+  <h3>Show some ❤️ by starring some of my repositories!</h3>
 </div>
+
 
 
 </div>
