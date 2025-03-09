@@ -15,7 +15,7 @@ I'm 0x1Gp, a junior pentester and cybersecurity enthusiast 🛡️. Passionate a
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
-<img align="right"  height="300" width="580" alt="GIF" src="https://cdn.discordapp.com/attachments/1344654143268192408/1348435696213426176/b6b1e5d53ff92793b421d0dbd1bea264.gif?ex=67cf741a&is=67ce229a&hm=9dad583cf3259b47e5ccdf133a8196e2ecaf8aad1146f1a85743f7a9fedad207&" />
+<img align="right"  height="290" width="580" alt="GIF" src="https://cdn.discordapp.com/attachments/1344654143268192408/1348435696213426176/b6b1e5d53ff92793b421d0dbd1bea264.gif?ex=67cf741a&is=67ce229a&hm=9dad583cf3259b47e5ccdf133a8196e2ecaf8aad1146f1a85743f7a9fedad207&" />
 
  - 📫 How to reach me: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
  - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
