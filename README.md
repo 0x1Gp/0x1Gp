@@ -37,6 +37,9 @@ I'm 0x1Gp, a junior pentester and cybersecurity enthusiast 🛡️. Passionate a
 </code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
 
 
+## 🖥️ OS :
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/GNU/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 
