@@ -45,9 +45,8 @@ I'm 0x1Gp, a junior pentester and cybersecurity enthusiast 🛡️. Passionate a
 <details>
   <summary>📈 My GitHub Stats</summary>
 
-
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=0x1Gp&theme=radical&no-frame=true&no-bg=true&margin-w=4&rank=SECRET)
+![Trophies](https://github-profile-trophy.vercel.app/?username=0x1Gp&theme=radical&no-frame=true&no-bg=true&margin-w=4&rank=S,AAA,AA,A)
 
 
 ## 📊 GitHub Stats
