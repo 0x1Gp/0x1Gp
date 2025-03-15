@@ -44,6 +44,9 @@ I'm 0x1Gp, a junior pentester and cybersecurity enthusiast 🛡️. Passionate a
 <hr>
 <details>
   <summary>📈 My GitHub Stats</summary>
+
+
+
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=0x1Gp&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
@@ -52,6 +55,14 @@ I'm 0x1Gp, a junior pentester and cybersecurity enthusiast 🛡️. Passionate a
 
 ## 🚀 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x1Gp&layout=compact&langs_count=6&theme=radical&hide_border=true)
+
+
+
+
+
+
+
+
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=0x1Gp&show_icons=true&theme=gotham" alt="0x1Gp's GitHub stats" />
