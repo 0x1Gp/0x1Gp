@@ -60,7 +60,7 @@ I'm 0x1Gp, a junior pentester and cybersecurity enthusiast 🛡️. Passionate a
 ## 🚀 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x1Gp&layout=compact&langs_count=6&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x1Gp&layout=compact&langs_count=6&theme=radical&hide_border=true)
+
 
 
 
