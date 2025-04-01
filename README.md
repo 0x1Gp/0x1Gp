@@ -11,7 +11,7 @@ I'm 0x1Gp, a junior pentester and cybersecurity enthusiast 🛡️. Passionate a
 
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
-<img align="right" height="255" width="580" alt="GIF" src="https://media.discordapp.net/attachments/1344654143268192408/1348435696213426176/b6b1e5d53ff92793b421d0dbd1bea264.gif?ex=67d6b45a&is=67d562da&hm=c70648ecb2e1c9d686ec5c035d359c3cdd62ab8c8296a86294fcae693399ab44">
+<img align="right" height="255" width="580" alt="GIF" src="https://media.discordapp.net/attachments/1344654143268192408/1348435696213426176/b6b1e5d53ff92793b421d0dbd1bea264.gif?ex=67ed1dda&is=67ebcc5a&hm=d6af1485ce8ae2eaf2b101d0d1f8c87926492a74b982ead418d17455b15bad56&=">
 
  - 📫 How to reach me: []();
  - 🔗 X : [0x1Gp/](https://www.x.com/0x1Gp)
