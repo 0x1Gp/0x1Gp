@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Assets/giphy_16.gif" width="800" alt="Intro GIF"/>
+  <img src="./assets/giphy_16.gif" width="800" alt="Intro GIF"/>
 </p>
 
 <h1 align="center">Hey, nice to see you! 👋</h1>
