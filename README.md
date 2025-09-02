@@ -2,7 +2,7 @@
   <img src="./assets/giphy_16.gif" width="800" alt="Intro GIF"/>
 </p>
 
-<h1 align="center">Hey, nice to see you! 👋</h1>
+<h1 align="center">Hey </h1>
 
 <p align="center">
   I'm <b>0x1Gp</b>, a junior pentester and cybersecurity enthusiast 🛡️.<br>
