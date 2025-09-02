@@ -14,7 +14,7 @@
 <img align="right" height="255" width="580" alt="GIF" src="./Assets/giphy_16.gif" />
 
 ### 📫 How to reach me
-- 🔗 X (Twitter): [0x1Gp](https://www.x.com/0x1Gp)
+- 🔗 X : [0x1Gp](https://www.x.com/0x1Gp)
 
 ---
 
